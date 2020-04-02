@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<time.h>
 
-long long unsigned int count;
+
 unsigned int bits(long unsigned int n)
 {
 	unsigned int b=0;
